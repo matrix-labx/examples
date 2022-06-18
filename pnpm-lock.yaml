@@ -1,0 +1,7 @@
+lockfileVersion: 5.4
+
+specifiers:
+  matrix-web: ^0.0.3
+
+dependencies:
+  matrix-web: link:node_modules/matrix-web
